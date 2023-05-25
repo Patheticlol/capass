@@ -1,5 +1,6 @@
 ## MDM Bypass
-#### This is localized from the original repo so schools don't know.
+##### ONG
+#### This is localized from the original repo so [removed] is bamboozled.
 Say no more to people on eBay selling this exploit!  
 
 This is an old exploit, should work on at least iOS 7-15, iOS 16 is untested.
