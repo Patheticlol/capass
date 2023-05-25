@@ -1,11 +1,11 @@
 @echo off
 
-Title Lunarixus MDM Bypass Tool
+Title A MDM Bypass Tool
 
 color a 
 
-echo Lunarixus MDM Bypass
-echo Shout-out to that one sketch eBay guy for source code
+echo A MDM Bypass
+echo sketchy code
 echo 
 
 deviceinfo.dll -k SerialNumber > info.log 2>&1
@@ -73,9 +73,9 @@ echo Device is rebooting, once it has rebooted MDM should be bypassed.
 finish.dll restart > nul
 
 echo ------------------------------
-echo Twitter: @TheLunarixus
-echo Telegram: @Lunarixus
-echo GitHub: Lunarixus
+echo Twitter: @gregheffleylol
+echo Telegram: Nope
+echo GitHub: Patheticlol
 echo ------------------------------
 
 
